@@ -1,0 +1,2 @@
+Realizar un algoritmo que permita calcular el coste del pasaje de colectivo respecto a 
+dos variables, los kilometros que recorre el colectivo y el valor del kilometro en pesos. 

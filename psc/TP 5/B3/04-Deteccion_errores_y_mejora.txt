@@ -1,0 +1,11 @@
+Al realizar 1 prueba de escritorio con un valor aleatoreo se resalto un error en el algoritmo. 
+El enunciado nos pide calcular en base a un precio que ingresa el usuario, el calculo con IVA
+incluido, que es un 21%, un valor constante desde 2005 a la fecha, por ende se puede definir como 
+una variable constante, y se calcula multiplicando al precio 1,21 ; no sumando 21. Ademas se nos 
+pide que calculemos el precio del producto con un 20% de descuento, que no se obtiene restando 20 
+al precio, sino que se obtiene multiplicando el precioIVA X 0,20. Por ende voy a asignar como valor 
+constante a IVA y Descuento, con sus correspondientes valores, para agilizar un futuro interes en el
+cambio del descuento, ya que el IVA es un inpuesto constante a lo largo de los años.
+Por ultimo para mejorar la organizacion del diagrama de flujos, los marcadores de salida seran
+colocados al final de la correspondiente variable, para agilisar una lectura comprensible y en 
+base a cada variable y su ejecucion. 

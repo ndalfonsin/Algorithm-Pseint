@@ -1,0 +1,2 @@
+Se realizaran 2 validaciones, solo para los datos de entrada que otorgara el usuario, siendo, el costo de la materia prima (mp) y la clave del producto (A, B, C)
+ya que cualquier error que requiera de validacion en el algoritmo, este seria un error de diseño y no de los valores que operan dentro del algoritmo
